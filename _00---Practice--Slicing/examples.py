@@ -15,6 +15,7 @@ s = "vineetSingraul"
 
 # p = print(s[-2:-1:-1])
 p = print(s[-4:-2:-1])
+p = print(s[-4:-2:-1])
 
 
 # a = print(s[::])
