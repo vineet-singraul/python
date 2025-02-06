@@ -10,4 +10,4 @@ else:
     elif number>=35 and number<=45:
       print(f'{number} Thired Division Pass :')
     elif number>=0 and number<=35:
-       print(f'{number} Your Failed : ')
+       print(f'{number} Your Failed : ')    
