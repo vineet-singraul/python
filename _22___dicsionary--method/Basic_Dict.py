@@ -17,5 +17,3 @@ print("The Min Value Is = ",min(d1),min(d1.values()))
 print("The Type Value Is = ",type(d1))
 
 print("The Lenght Value Is = ",len(d1))
-
-
