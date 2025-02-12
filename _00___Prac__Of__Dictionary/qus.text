@@ -1,0 +1,66 @@
+Here's the exact text you requested:  
+
+---
+
+1. **Create a dictionary with a key-value pair entered by the user.**  
+   ```
+   Enter key: name  
+   Enter value: Alice  
+   Dictionary: {'name': 'Alice'}
+   ```  
+
+2. **Ask the user to add another key-value pair.**  
+   ```
+   Enter another key: age  
+   Enter another value: 25  
+   Updated Dictionary: {'name': 'Alice', 'age': '25'}
+   ```  
+
+3. **Check if a key exists in the dictionary.**  
+   ```
+   Enter a key to check: name  
+   Key exists: True
+   ```  
+
+4. **Retrieve the value of a given key.**  
+   ```
+   Enter a key to retrieve value: age  
+   Value: 25
+   ```  
+
+5. **Delete a key-value pair.**  
+   ```
+   Enter a key to delete: age  
+   Updated Dictionary: {'name': 'Alice'}
+   ```  
+
+6. **Add multiple key-value pairs.**  
+   ```
+   How many key-value pairs do you want to add? 2  
+   Enter key: city  
+   Enter value: New York  
+   Enter key: country  
+   Enter value: USA  
+   Final Dictionary: {'name': 'Alice', 'city': 'New York', 'country': 'USA'}
+   ```  
+
+7. **Display only the keys of the dictionary.**  
+   ```
+   Keys: dict_keys(['name', 'city', 'country'])
+   ```  
+
+8. **Display only the values of the dictionary.**  
+   ```
+   Values: dict_values(['Alice', 'New York', 'USA'])
+   ```  
+
+9. **Show all key-value pairs.**  
+   ```
+   name: Alice  
+   city: New York  
+   country: USA  
+   ```  
+
+10. **Find the total number of key-value pairs.**  
+   ```
+   Total pairs: 3
