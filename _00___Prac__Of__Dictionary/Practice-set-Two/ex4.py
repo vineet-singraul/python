@@ -2,5 +2,9 @@
 #    **Output:**  
 #    Updated Dictionary: {'name': 'ALICE', 'city': 'NEW YORK'}
 
-Diction = {'name': 'vineet', 'age': '20', 'course': 'B-tech', 'Year': '4'}
-val = Diction.values()
+
+data = {'name': 'Vineet','city': 'satna'}
+for key in data:
+    val = data.get(key)
+    data.update({key:val.upper()})
+print("Finally Updated Dictionary : ",data)
