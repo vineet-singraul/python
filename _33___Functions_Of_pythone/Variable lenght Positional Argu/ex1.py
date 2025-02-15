@@ -1,13 +1,9 @@
-def add (x,y,z):
-    print("x",x)
-    print("y",y)
-    print("z",z)
-    return x+y+z
-
-p = 10
-q = 10
-r = 10
-res = add(z=p,y=q ,x=r)
+def add (*n):
+    print(n)
+    print(type(n))
+    sum = 0
+    for i in n:
+        sum = sum + i
+    return sum
+res = add(2,3,4,5,6)
 print(res)
-
-# Defalt-Value Argument  argument me pahle se set ker diya yaha 
