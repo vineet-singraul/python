@@ -15,3 +15,10 @@ print(text[7:])
 
 print(text[::-1])  
  # Output: '!dlroW ,olleH' 
+
+
+
+
+letters = ['a', 'b', 'c', 'd', 'e', 'f']
+print(letters[-4:-1])  
+# Output: ['c', 'd', 'e']
