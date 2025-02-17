@@ -16,7 +16,8 @@ def add (*n):
     print(type(n))
     sum = 0
     for i in n:
-        sum = sum + i
+       for j in i:
+        sum = sum + j
     return sum
 
 x = eval(input("Enter One Number:"))
