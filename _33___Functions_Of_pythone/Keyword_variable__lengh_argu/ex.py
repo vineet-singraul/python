@@ -19,11 +19,23 @@
 
 
 
-def Add(**kwards):
-    for i in kwards.items():
-     print(i)
-diction = eval(input("Enter A Dictionary : "))
-res = Add(**diction)
+# def Add(**kwards):
+#     for i in kwards.items():
+#      print(i)
+# diction = eval(input("Enter A Dictionary : "))
+# res = Add(**diction)
+
+
+# def Add(**kwards):
+
+#     for k,v in kwards.items():
+#       print(k)
+#       print(v)
+# diction = eval(input("Enter A Dictionary : "))
+# res = Add(**diction)
+
+# print(res)
+
 
 
 
@@ -38,3 +50,5 @@ diction = eval(input("Enter A Dictionary : "))
 res = Add(**diction)
 
 print(res)
+
+# {"Name":"Vineet","Course":"B-Tech"}
