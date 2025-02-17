@@ -11,6 +11,20 @@
 
 # dynamic input
 
+# def add (*n):
+#     print(n)
+#     print(type(n))
+#     sum = 0
+#     for i in n:
+#        for j in i:
+#         sum = sum + j
+#     return sum
+
+# x = eval(input("Enter One Number:"))
+# res = add(x)
+# print(res)
+
+
 def add (*n):
     print(n)
     print(type(n))
