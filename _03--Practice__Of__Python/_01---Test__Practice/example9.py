@@ -3,7 +3,7 @@
 
 input1 = -1
 i = 2
-print(input1 , end=" ")
+print(input1 , end=",")
 while input1 < i:
     print(i,end=",")
     i=i+1
