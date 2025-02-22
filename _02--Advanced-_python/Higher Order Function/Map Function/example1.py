@@ -1,13 +1,14 @@
 
 
-
-
-
-
-
-
 # output element is always equal to one element
 # output me only single element return aayega
+
+
+
+
+
+
+
 
 
 str = "Vineet"
