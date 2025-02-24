@@ -60,12 +60,7 @@
    [1, 2, 5, 8]  
    ```  
 
-9. **Get a sublist from a list**  
-   **List:** `my_list = [10, 20, 30, 40, 50]`  
-   **Output:**  
-   ```  
-   [20, 30, 40]  
-   ```  
+ 
 
 10. **Combine two lists**  
     **List:** `list1 = [1, 2, 3]`, `list2 = [4, 5, 6]`  
