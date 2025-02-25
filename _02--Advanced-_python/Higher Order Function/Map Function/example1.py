@@ -4,20 +4,15 @@
 # output me only single element return aayega
 
 
+# x = [12,3,4,5,6,7,8,9]
+# y = x.map() 
 
 
+def sqr(n):
+    return n**2
 
+li = [12,3,4,5,6,7,8,9]
+x = map(sqr , li)
 
-
-
-
-str = "Vineet"
-m = len(str)
-i = 0
-li = []
-while i < m:
-     r = str.index(i)
-     print(i)
-     li.append(r)
-     i = i + 1
-print(li)
+print(x)
+print(list(x))

@@ -18,3 +18,7 @@ while i < len(li):
             j+=1
     i+=1
 print(li)
+
+
+
+
