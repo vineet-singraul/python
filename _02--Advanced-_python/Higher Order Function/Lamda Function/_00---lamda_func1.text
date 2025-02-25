@@ -1,0 +1,9 @@
+# a fuction without name
+# use lamda keyword
+# it take number of arguments but execute single line half expresstion 
+
+
+# syntax ----|
+    # lamda argument : expresstion
+#      |
+#    keyword  
