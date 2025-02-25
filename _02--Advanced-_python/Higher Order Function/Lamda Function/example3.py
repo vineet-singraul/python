@@ -17,14 +17,21 @@
 # syntax 
 #  lambda x : [ i for i in colloction]
 
-x = "Vineet"
-z = lambda x : [p for p in x]
-print(z(x))
+# x = "Vineet"
+# z = lambda x : [p for p in x]
+# print(z(x))
 
 
-# or
+# # or
 
 
-y = [1,2,3,4,5,6]
-z = lambda y : [ i  for i in y]
-print(z(y))
+# y = [1,2,3,4,5,6]
+# z = lambda y : [ i  for i in y]
+# print(z(y))
+
+
+
+# AND
+x = 4
+res = lambda p : [i for i in range(1,p) for k in range(p)]
+print(res(x))
