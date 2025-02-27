@@ -32,6 +32,7 @@
 
 
 # AND
+
 x = 4
-res = lambda p : [i for i in range(1,p) for k in range(p)]
+res = lambda p : [[j for j in range(1,p) ] for i in range(p)]
 print(res(x))
