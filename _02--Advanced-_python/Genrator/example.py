@@ -26,4 +26,8 @@ print(next(x))
 print("hi")
 print("hiiiii")
 print("hello")
+print(next(x))
+
+print(next(x))
+
 # print(list(x))
