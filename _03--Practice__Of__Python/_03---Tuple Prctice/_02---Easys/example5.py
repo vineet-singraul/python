@@ -1,3 +1,7 @@
+
+
+
+
 # 6. **Find the length of the longest word in a tuple**  
 #    **Input:**   
 #    Enter a tuple: ("apple", "banana", "cherry", "strawberry")  
