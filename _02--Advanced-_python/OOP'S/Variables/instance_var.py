@@ -63,3 +63,9 @@ obj.Show()
 # call second objescts
 obj1 = Student("Mohni" , 70)
 obj1.Show()
+
+# overadding value x 
+obj1.y = 1000
+obj1.Show()
+
+

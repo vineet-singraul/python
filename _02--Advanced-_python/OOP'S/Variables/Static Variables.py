@@ -1,0 +1,1 @@
+# Aise var vo object per depend nhi karte {aleg aleg object me bhi same  value dega}
