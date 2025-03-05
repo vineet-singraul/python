@@ -1,8 +1,8 @@
 class Student:
-    def __init__():
+    def __init__(self):
         print("Constructor clled :")
     
-    def __init__():
+    def __init__(self):
         print("Constructor clled 3 [OVERLOADDING]:")
     
 obj = Student
