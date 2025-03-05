@@ -2,6 +2,9 @@ class Student:
     def __init__():
         print("Constructor clled :")
     
+    def __init__():
+        print("Constructor clled 3 [OVERLOADDING]:")
+    
 obj = Student
 # obj = Student()
 
