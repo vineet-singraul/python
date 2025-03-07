@@ -1,0 +1,58 @@
+Here are **40 Python list-related questions**, categorized from **Easy to Hard**:
+
+---
+
+## **🔹 Easy Level (10 Questions)**
+1. How do you create an empty list in Python?
+2. How do you add an element to a list?
+3. How do you remove an element from a list?
+4. What is the difference between `append()` and `extend()`?
+5. How do you access the first and last element of a list?
+6. How do you reverse a list in Python?
+7. How do you check if an element exists in a list?
+8. How do you concatenate two lists?
+9. What is the difference between a list and a tuple?
+10. How do you find the length of a list?
+
+---
+
+## **🔹 Medium Level (20 Questions)**
+11. How do you sort a list in ascending and descending order?
+12. How do you find the sum of all elements in a list?
+13. How do you remove duplicates from a list?
+14. How do you find the index of an element in a list?
+15. How do you count the occurrences of an element in a list?
+16. What is list slicing? Provide an example.
+17. How do you copy a list without modifying the original?
+18. How do you merge two lists alternatively?  
+   *(Example: `[1,2,3]` and `[a,b,c]` → `[1,a,2,b,3,c]`)*
+19. How do you find the maximum and minimum element in a list?
+20. How do you extract even and odd numbers from a list?
+21. How do you find the intersection of two lists?
+22. How do you find the union of two lists?
+23. How do you remove all occurrences of a specific element from a list?
+24. How do you check if a list is sorted?
+25. How do you find the difference between two lists?
+26. How do you shuffle a list randomly?
+27. How do you flatten a nested list?
+28. How do you rotate a list left or right by `n` positions?
+29. How do you convert a list of characters into a string?
+30. How do you find all pairs in a list whose sum equals a given number?
+
+---
+
+## **🔹 Hard Level (10 Questions)**
+31. How do you find the second largest and second smallest element in a list?
+32. How do you implement a list-based stack (LIFO) and queue (FIFO) in Python?
+33. How do you find all possible subsets of a list?
+34. How do you find the longest increasing subsequence in a list?
+35. How do you generate all permutations of a list?
+36. How do you find the majority element (element appearing more than `n/2` times) in a list?
+37. How do you split a list into `k` equal-sized chunks?
+38. How do you find the maximum sum of a subarray in a list? *(Kadane’s Algorithm)*
+39. How do you implement a circular list where elements wrap around?
+40. How do you remove elements from a list while iterating over it safely?
+
+---
+
+Would you like solutions for any of these questions? 🚀
