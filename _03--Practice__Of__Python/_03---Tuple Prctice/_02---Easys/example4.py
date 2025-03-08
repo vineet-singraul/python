@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 # 5. **Check if all elements are positive**  
 #    **Input:**  
 #    Enter a tuple: (1, 2, 3, -4, 5)  
