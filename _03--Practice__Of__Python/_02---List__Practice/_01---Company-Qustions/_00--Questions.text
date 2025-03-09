@@ -33,9 +33,6 @@ Here are **40 Python list-related questions**, categorized from **Easy to Hard**
 23. How do you remove all occurrences of a specific element from a list?
 24. How do you check if a list is sorted?
 25. How do you find the difference between two lists?
-26. How do you shuffle a list randomly?
-27. How do you flatten a nested list?
-28. How do you rotate a list left or right by `n` positions?
 29. How do you convert a list of characters into a string?
 30. How do you find all pairs in a list whose sum equals a given number?
 
