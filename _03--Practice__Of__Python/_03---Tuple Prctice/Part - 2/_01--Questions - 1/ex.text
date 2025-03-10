@@ -1,0 +1,67 @@
+Here are 50 **coding** questions on tuples in Python, categorized into **easy (10), medium (30), and hard (10)** levels.
+
+---
+
+## **Easy (10)**
+1. Create a tuple with numbers from 1 to 10.
+2. Access the third element of the tuple `(10, 20, 30, 40, 50)`.
+3. Extract the last three elements from the tuple `(1, 2, 3, 4, 5, 6)`.
+4. Convert the tuple `(10, 20, 30, 40)` into a list.
+5. Check if the number `5` exists in the tuple `(1, 2, 3, 4, 5)`.
+6. Find the length of the tuple `(100, 200, 300, 400, 500)`.
+7. Count how many times `2` appears in the tuple `(1, 2, 3, 2, 4, 2, 5)`.
+8. Find the index of `30` in the tuple `(10, 20, 30, 40, 50)`.
+9. Reverse the tuple `(1, 2, 3, 4, 5)`.
+10. Unpack the tuple `(10, 20, 30)` into three variables and print them.
+
+---
+
+## **Medium (30)**
+11. Merge two tuples `(1, 2, 3)` and `(4, 5, 6)`.
+12. Find the sum of all elements in the tuple `(10, 20, 30, 40, 50)`.
+13. Find the maximum and minimum values in the tuple `(5, 10, 15, 20, 25)`.
+14. Convert a list `[1, 2, 3, 4, 5]` into a tuple.
+15. Remove duplicates from the tuple `(1, 2, 3, 2, 4, 1, 5, 3)`.
+16. Convert the tuple `('a', 'b', 'c', 'd')` into a string.
+17. Swap two tuples: `a = (1, 2, 3)`, `b = (4, 5, 6)`.
+18. Find the index of the first occurrence of `5` in `(1, 2, 5, 3, 5, 4, 5)`.
+19. Create a tuple with a single element `10` and check its type.
+20. Convert the tuple `(1, 2, 3, 4, 5)` into a dictionary with keys as elements and values as their squares.
+21. Write a function that returns the second-largest element from a tuple `(10, 20, 5, 40, 30)`.
+22. Create a nested tuple containing three tuples inside.
+23. Write a program to rotate the tuple `(1, 2, 3, 4, 5)` one step to the right.
+24. Sort a tuple of numbers `(4, 1, 3, 5, 2)`.
+25. Create a tuple with 5 random numbers.
+26. Write a function that removes a specific element from a tuple.
+27. Check if two tuples are identical `(1, 2, 3)` and `(1, 2, 3)`.
+28. Extract only even numbers from `(1, 2, 3, 4, 5, 6, 7, 8)`.
+29. Write a function that checks if all elements in a tuple are integers.
+30. Create a tuple of tuples, where each tuple contains two numbers, and find the sum of each tuple.
+31. Convert a tuple of numbers into a tuple of their squares.
+32. Write a function to check if a tuple is sorted in ascending order.
+33. Reverse the order of elements inside a nested tuple.
+34. Find the frequency of each element in a tuple `(1, 2, 3, 2, 1, 3, 4, 5)`.
+35. Create a tuple of 10 elements and find the median.
+36. Find common elements in two tuples `(1, 2, 3, 4, 5)` and `(3, 4, 5, 6, 7)`.
+37. Write a function to check if a tuple is a palindrome `(1, 2, 3, 2, 1)`.
+38. Convert a tuple of tuples `((1, 2), (3, 4), (5, 6))` into a dictionary.
+39. Find the first non-repeating element in a tuple `(1, 2, 3, 2, 1, 4, 5)`.
+40. Create a tuple of numbers and find the product of all elements.
+
+---
+
+## **Hard (10)**
+41. Write a function to merge two tuples and sort the merged tuple.
+42. Write a function that returns the longest increasing subsequence in a tuple.
+43. Create a function that finds the intersection of two tuples `(1, 2, 3, 4)` and `(3, 4, 5, 6)`.
+44. Write a function that rotates a tuple `k` positions to the left.
+45. Write a program to generate all possible subsets of a tuple `(1, 2, 3)`.
+46. Implement a function to find the largest contiguous subarray sum in a tuple.
+47. Convert a nested tuple to a flat tuple `((1, 2), (3, 4), (5, 6)) -> (1, 2, 3, 4, 5, 6)`.
+48. Create a tuple of tuples and sort it by the second element of each tuple.
+49. Write a function that partitions a tuple into two tuples: one containing even numbers and the other containing odd numbers.
+50. Implement a function to generate all possible permutations of a given tuple.
+
+---
+
+This list covers a wide range of tuple operations, from basic indexing to advanced tuple manipulations. Let me know if you need solutions for any of these questions! 🚀
