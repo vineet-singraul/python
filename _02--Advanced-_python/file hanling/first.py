@@ -1,0 +1,6 @@
+f = open('y1.py', 'a')
+print(f.name)
+print(f.mode)
+print(f.readable())
+print(f.writable())
+print(f.closed)
