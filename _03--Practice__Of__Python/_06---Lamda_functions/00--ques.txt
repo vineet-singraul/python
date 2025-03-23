@@ -1,0 +1,132 @@
+Here are 30 programming questions categorized into easy, medium, and hard, along with their expected inputs and outputs.  
+
+---
+
+### **Easy Questions**
+ 
+
+2. **Check Even or Odd**  
+   - Input: `7`  
+   - Output: `Odd`  
+
+3. **Find the Largest of Two Numbers**  
+   - Input: `10 20`  
+   - Output: `20`  
+
+4. **Reverse a String**  
+   - Input: `"hello"`  
+   - Output: `"olleh"`  
+
+5. **Find Factorial**  
+   - Input: `5`  
+   - Output: `120`  
+
+6. **Check Prime Number**  
+   - Input: `13`  
+   - Output: `Prime`  
+ 
+7. **Find the Sum of Digits**  
+   - Input: `123`  
+   - Output: `6`  
+
+8. **Find the Area of a Circle**  
+   - Input: `radius = 7`  
+   - Output: `153.94`  
+
+9. **Convert Celsius to Fahrenheit**  
+   - Input: `25`  
+   - Output: `77`  
+
+10. **Check if a String is a Palindrome**  
+    - Input: `"racecar"`  
+    - Output: `Yes`  
+
+---
+
+### **Medium Questions**
+11. **Find the Second Largest Number in an Array**  
+    - Input: `[1, 5, 3, 8, 7]`  
+    - Output: `7`  
+
+12. **Sort an Array in Ascending Order**  
+    - Input: `[4, 2, 9, 1]`  
+    - Output: `[1, 2, 4, 9]`  
+
+13. **Check if Two Strings Are Anagrams**  
+    - Input: `"listen", "silent"`  
+    - Output: `Yes`  
+
+14. **Find the Fibonacci Number at Nth Position**  
+    - Input: `6`  
+    - Output: `8`  
+
+15. **Find the GCD of Two Numbers**  
+    - Input: `12 18`  
+    - Output: `6`  
+
+16. **Find the LCM of Two Numbers**  
+    - Input: `4 5`  
+    - Output: `20`  
+
+17. **Remove Duplicates from a List**  
+    - Input: `[1, 2, 2, 3, 4, 4, 5]`  
+    - Output: `[1, 2, 3, 4, 5]`  
+
+18. **Find Intersection of Two Lists**  
+    - Input: `[1, 2, 3] and [2, 3, 4]`  
+    - Output: `[2, 3]`  
+
+19. **Count Vowels in a String**  
+    - Input: `"programming"`  
+    - Output: `3`  
+
+20. **Find the Missing Number in an Array**  
+    - Input: `[1, 2, 3, 5]`  
+    - Output: `4`  
+
+---
+
+### **Hard Questions**
+21. **Find All Subsets of a Given Set**  
+    - Input: `{1, 2, 3}`  
+    - Output: `{ {}, {1}, {2}, {3}, {1,2}, {1,3}, {2,3}, {1,2,3} }`  
+
+22. **Implement Binary Search Algorithm**  
+    - Input: `sorted_list = [1, 3, 5, 7, 9], target = 5`  
+    - Output: `Index 2`  
+
+23. **Check if a Given Number is an Armstrong Number**  
+    - Input: `153`  
+    - Output: `Yes`  
+
+24. **Solve the N-Queens Problem (for N = 4)**  
+    - Input: `4`  
+    - Output: `Possible board placements`  
+
+25. **Generate All Permutations of a Given String**  
+    - Input: `"abc"`  
+    - Output: `["abc", "acb", "bac", "bca", "cab", "cba"]`  
+
+26. **Find the Longest Palindromic Substring**  
+    - Input: `"babad"`  
+    - Output: `"bab"` or `"aba"`  
+
+27. **Implement Dijkstra's Shortest Path Algorithm**  
+    - Input: `Graph with weighted edges`  
+    - Output: `Shortest distance to all nodes`  
+
+28. **Find the Median of Two Sorted Arrays**  
+    - Input: `[1, 3], [2]`  
+    - Output: `2.0`  
+
+29. **Find the Kth Largest Element in an Array**  
+    - Input: `[3, 2, 1, 5, 6, 4], k=2`  
+    - Output: `5`  
+
+30. **Solve the Traveling Salesman Problem Using Dynamic Programming**  
+    - Input: `Graph with distances`  
+    - Output: `Minimum travel cost`  
+
+---
+
+Would you like explanations for any of these questions? 😊
