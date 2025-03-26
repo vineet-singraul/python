@@ -17,100 +17,72 @@ Here are 30 programming questions categorized into easy, medium, and hard, along
    - Input: `"hello"`  
    - Output: `"olleh"`  
 
-
-
 5. **Find Factorial**  
    - Input: `5`  
    - Output: `120`  
 
-
-
-
 6. **Check Prime Number**  
    - Input: `13`  
    - Output: `Prime`  
-
-
  
 7. **Find the Sum of Digits**  
    - Input: `123`  
    - Output: `6`  
 
+8. **Find the Area of a Circle**  
+   - Input: `radius = 7`  
+   - Output: `153.94`  
 
-
+9. **Convert Celsius to Fahrenheit**  
+   - Input: `25`  
+   - Output: `77`  
 
 10. **Check if a String is a Palindrome**  
     - Input: `"racecar"`  
     - Output: `Yes`  
 
-
-
 ---
 
 ### **Medium Questions**
-
-
 11. **Find the Second Largest Number in an Array**  
     - Input: `[1, 5, 3, 8, 7]`  
     - Output: `7`  
 
-
-
 12. **Sort an Array in Ascending Order**  
     - Input: `[4, 2, 9, 1]`  
-    - Output: `[1, 2, 4, 9]`
-
-
-  
+    - Output: `[1, 2, 4, 9]`  
 
 13. **Check if Two Strings Are Anagrams**  
     - Input: `"listen", "silent"`  
     - Output: `Yes`  
 
-
-
 14. **Find the Fibonacci Number at Nth Position**  
     - Input: `6`  
     - Output: `8`  
-
-
 
 15. **Find the GCD of Two Numbers**  
     - Input: `12 18`  
     - Output: `6`  
 
-
-
 16. **Find the LCM of Two Numbers**  
     - Input: `4 5`  
     - Output: `20`  
-
-
 
 17. **Remove Duplicates from a List**  
     - Input: `[1, 2, 2, 3, 4, 4, 5]`  
     - Output: `[1, 2, 3, 4, 5]`  
 
-
-
-
 18. **Find Intersection of Two Lists**  
     - Input: `[1, 2, 3] and [2, 3, 4]`  
     - Output: `[2, 3]`  
-
-
 
 19. **Count Vowels in a String**  
     - Input: `"programming"`  
     - Output: `3`  
 
-
-
 20. **Find the Missing Number in an Array**  
     - Input: `[1, 2, 3, 5]`  
     - Output: `4`  
-
-
 
 ---
 
