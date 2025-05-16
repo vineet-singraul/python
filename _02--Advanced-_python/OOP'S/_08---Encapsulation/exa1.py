@@ -7,4 +7,5 @@ class Emp:
     
 ob = Emp(21)
 ob.show()
+ob.show()
 print(ob._Emp__age)
