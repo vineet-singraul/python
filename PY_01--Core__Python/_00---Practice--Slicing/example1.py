@@ -27,3 +27,8 @@ print(numbers[::2])
 
 print(numbers[::2])  
  # Output: [10, 30, 50, 70] 
+
+
+print(numbers[::2])  
+ # Output: [10, 30, 50, 70] 
+
