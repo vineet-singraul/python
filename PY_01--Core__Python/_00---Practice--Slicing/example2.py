@@ -1,3 +1,8 @@
+
+print(text[0:5])   
+ # Output: 'Hello'
+
+
 text = "Hello, World!"
 
 
