@@ -9,6 +9,10 @@ print(numbers[:4])
 # Output: [10, 20, 30, 40]
 
 
+
+print(numbers[:5])    
+
+
 print(numbers[3:])   
  # Output: [40, 50, 60, 70]
 
