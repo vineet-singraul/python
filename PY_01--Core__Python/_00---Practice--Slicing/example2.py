@@ -8,6 +8,9 @@ print(text[0:5])
 print(text[:5])     
 # Output: 'Hello'
 
+print(text[:5])     
+# Output: 'Hello'
+
 
 print(text[7:])    
  # Output: 'World!'
