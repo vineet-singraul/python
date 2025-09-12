@@ -7,3 +7,5 @@ data = {"name":"Vineet","Course":"B-Tech","City":"Satna","age":20,"Ending":2025}
 datas = data.items()
 li = list(datas)
 print(tuple(li))
+
+
