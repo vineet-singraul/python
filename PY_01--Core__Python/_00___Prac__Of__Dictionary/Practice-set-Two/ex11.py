@@ -6,7 +6,7 @@
 #    **Output:**  
 #    Both keys have the same value.
 
-data = {"name":"Vineet","Course":"B-Tech","City":"Satna","age":20,"Ending":20}
+data = {"name":"Vineet singh","Course":"B-Tech","City":"Satna","age":20,"Ending":20}
 
 userKey = input("Enert first key: ")
 userkey2 = input("Enter Secand key: ")
